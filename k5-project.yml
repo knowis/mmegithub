@@ -48,3 +48,4 @@ codingAssistantPreferences:
     id: copilot
   - enabled: true
     id: cursor
+description: ''

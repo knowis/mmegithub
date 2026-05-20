@@ -1,0 +1,10 @@
+schemaVersion: /v1/solution.schema.json
+creationTs: '1779262153906'
+creator: Markus Frischeisen-Meier
+creatorId: 3aa6bf19-2cc9-42be-b357-f564a7953e7b
+documentation:
+  fileLink: /solution.md
+  schemaVersion: /v1/documentation.schema.json
+  creationTs: '1779262153906'
+  creator: Markus Frischeisen-Meier
+  creatorId: 3aa6bf19-2cc9-42be-b357-f564a7953e7b

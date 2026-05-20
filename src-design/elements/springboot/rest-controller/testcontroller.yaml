@@ -1,0 +1,16 @@
+# A Spring Web MVC or WebFlux controller that maps HTTP requests to application logic. Typically annotated with @RestController, uses constructor injection for services, and delegates to the service layer. May apply validation, content negotiation, and response status codes.
+type: springboot.rest-controller
+label: TestController
+icon: ConvertToCloud
+tags: []
+# technical id uniquely identifying element instance
+uuid: c675c5ef-8312-46d2-9e31-8731a46b815e
+# k5-metadata: Id of profile where the element type was defined
+profileId: k5-springboot-implementation-profile
+# k5-metadata: Version of profile where the element type was defined
+profileVersion: 1.0.1
+# k5-metadata: Version used for serializing k5 data to filestructure
+serializationVersion: 1.0.0
+creationTs: '1779262175079'
+creator: Markus Frischeisen-Meier
+creatorId: 3aa6bf19-2cc9-42be-b357-f564a7953e7b
